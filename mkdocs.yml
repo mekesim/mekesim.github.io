@@ -1,0 +1,7 @@
+site_name: Mekesim
+theme:
+  name: material
+  features:
+    - search.suggest
+plugins:
+  - search  
