@@ -1,4 +1,5 @@
 site_name: Mekesim Products Document
+site_url: https://docs.mekesim.com/
 theme:
   name: material
   features:
