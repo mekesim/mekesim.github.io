@@ -1,11 +1,18 @@
-site_name: Mekesim Products Document
+site_name: ESP32 Club
 site_url: https://docs.mekesim.com/
 theme:
   name: material
+  palette:
+    primary: deep orange
   features:
     - search.suggest
 plugins:
   - search
+
+repo_url: https://github.com/mekesim/mekesim.github.io
+repo_name: mekesim/esp32
+edit_uri: edit/main/docs/
+
 markdown_extensions:
   - admonition
   - attr_list
