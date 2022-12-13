@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Flash Code to ESP32 by Arduino IDE
 
 To flash an ESP32, it need to install the ESP32 board support package in the Arduino IDE.

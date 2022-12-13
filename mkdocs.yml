@@ -6,6 +6,7 @@ theme:
     primary: deep orange
   features:
     - search.suggest
+  custom_dir: overrides  
 plugins:
   - search
 
