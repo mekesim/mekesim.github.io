@@ -1,5 +1,5 @@
-site_name: ESP32 Club
-site_url: https://docs.mekesim.com/
+site_name: ESP32 Cube
+site_url: https://esp32cube.com/
 theme:
   name: material
   palette:
@@ -10,8 +10,8 @@ theme:
 plugins:
   - search
 
-repo_url: https://github.com/mekesim/mekesim.github.io
-repo_name: mekesim/esp32
+repo_url: 
+repo_name: 
 edit_uri: edit/main/docs/
 
 markdown_extensions:
